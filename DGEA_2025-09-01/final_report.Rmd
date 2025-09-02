@@ -108,4 +108,3 @@ This differential expression analysis identified a robust set of genes responsiv
 
 ---
 
-**Code Availability**: The complete analysis code is available at: [Your GitHub Repository URL]
