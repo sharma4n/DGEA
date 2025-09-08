@@ -1,4 +1,4 @@
-Differential Gene Expression Analysis
+**Differential Gene Expression Analysis**
 
 Project Description
 A project demonstrating a standard RNA-seq differential gene expression analysis workflow using R and the DESeq2 package.
