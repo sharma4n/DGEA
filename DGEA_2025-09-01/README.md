@@ -10,7 +10,7 @@ A project demonstrating a standard RNA-seq differential gene expression analysis
 4.  **Visualization:** Created standard plots (MA Plot, Volcano Plot, Heatmap).
 
 ## Key Findings
-- Identified X significantly differentially expressed genes (adj. p-value < 0.05, |log2FC| > 1).
+- Identified significant differentially expressed genes (adj. p-value < 0.05, |log2FC| > 1).
 - The results are consistent with the known effects of dexamethasone.
 
 ## How to Run
